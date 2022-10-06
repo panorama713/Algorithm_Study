@@ -1,7 +1,3 @@
-from ast import Str
-from shutil import move
-
-
 # n 입력 받기
 n = int(input())
 x, y = 1, 1
