@@ -22,3 +22,4 @@ for plan in plans:
     x, y = nx, ny
 
 print(x, y)
+
